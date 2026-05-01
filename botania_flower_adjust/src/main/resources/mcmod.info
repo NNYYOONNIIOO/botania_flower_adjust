@@ -1,0 +1,16 @@
+[
+{
+  "modid": "botania_flower_adjust",
+  "name": "Botania Flower Adjust",
+  "description": "Allows users (modpack authors) to control the generation of mystical flowers from Botania in specified biomes through configuration.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nyonio"],
+  "credits": "Botania by Vazkii",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": ["after:botania"]
+}
+]
